@@ -11,4 +11,5 @@ llava-v1.5-13b 4bit
 https://colab.research.google.com/drive/1oAi9woTY7rCtkRkY0FN-7s_7GZHee8GM?authuser=3#scrollTo=o9psQLB9kHLy
 
 
-
+miniGPT4 - Colab pro 필요
+https://colab.research.google.com/drive/1-8y77KEOTnntxMd6beWA4BwDKNFJg0hH?usp=sharing
