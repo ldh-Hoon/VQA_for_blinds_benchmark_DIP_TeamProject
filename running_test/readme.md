@@ -13,6 +13,7 @@ Google Colab 사용
 https://colab.research.google.com/drive/1oAi9woTY7rCtkRkY0FN-7s_7GZHee8GM?authuser=3#scrollTo=o9psQLB9kHLy
 
 
+.
 
 
 >miniGPT4 - Colab pro 필요
@@ -21,8 +22,7 @@ https://colab.research.google.com/drive/1-8y77KEOTnntxMd6beWA4BwDKNFJg0hH?usp=sh
 
 minigpt4 ggml 실행 시도중
 
-
-
+.
 
 >blip2-opt-2.7b / 6.7b -8bit, float16 가능
 
@@ -30,6 +30,7 @@ https://colab.research.google.com/drive/12_45208iV6zQREFDD6DpzSJo687NS8yO?usp=sh
 
 Colab pro 필요한듯
 
+.
 
 >Blip / 단답이슈
 
