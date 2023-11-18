@@ -16,6 +16,7 @@ https://colab.research.google.com/drive/1oAi9woTY7rCtkRkY0FN-7s_7GZHee8GM?authus
 miniGPT4 - Colab pro 필요
 
 https://colab.research.google.com/drive/1-8y77KEOTnntxMd6beWA4BwDKNFJg0hH?usp=sharing
+ggml 경량 버전 조사중
 
 
 blip2-opt-2.7b / 6.7b -8bit, float16 가능
