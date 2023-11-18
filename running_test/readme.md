@@ -22,5 +22,6 @@ blip2-opt-2.7b -8bit, float16 가능
 
 https://colab.research.google.com/drive/12_45208iV6zQREFDD6DpzSJo687NS8yO?usp=sharing
 
+Blip 
 
-
+https://colab.research.google.com/drive/1h9ipDUYqpVgHxwt1AlR-sCtjw6QjK3Ah?usp=sharing
