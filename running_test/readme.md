@@ -18,7 +18,7 @@ miniGPT4 - Colab pro 필요
 https://colab.research.google.com/drive/1-8y77KEOTnntxMd6beWA4BwDKNFJg0hH?usp=sharing
 
 
-blip2-opt-2.7b -8bit, float16 가능
+blip2-opt-2.7b / 6.7b -8bit, float16 가능
 
 https://colab.research.google.com/drive/12_45208iV6zQREFDD6DpzSJo687NS8yO?usp=sharing
 
