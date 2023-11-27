@@ -7,11 +7,11 @@ output.json : 1500개
 <details>
     <summary>정제 방식</summary>
 
+
     Annotations, train.json (https://vizwiz.org/tasks-and-datasets/vqa/) 과 
     
     vision skill Annotations csv파일( https://vizwiz.org/tasks-and-datasets/vision-skills/)을 사용하여 text or object task인 데이터로 좁히기
     
-
 
 </details>
 
