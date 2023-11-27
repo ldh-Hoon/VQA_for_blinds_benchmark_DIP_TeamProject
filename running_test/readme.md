@@ -12,7 +12,7 @@ ipynb 그대로 구글 드라이브에 업로드 후 실행 가능(런타임 유
 
 >llava-v1.5-13b 4bit
 
-https://colab.research.google.com/drive/1oAi9woTY7rCtkRkY0FN-7s_7GZHee8GM?authuser=3#scrollTo=o9psQLB9kHLy
+https://colab.research.google.com/drive/1oAi9woTY7rCtkRkY0FN-7s_7GZHee8GM?usp=sharing
 
 
 .
