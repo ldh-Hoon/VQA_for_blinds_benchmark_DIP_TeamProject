@@ -2,8 +2,9 @@
 
 https://colab.research.google.com/drive/11gmC65Fn_Q6GqnUVnsCzRjSY59-9-Be1?authuser=3#scrollTo=Tn3DKhCiCLQl
 
-output.json : 3025개
+output.json : 1500개
 
+text or object task인 데이터로 좁히기
 
 <details>
     <summary>json 형식</summary>
