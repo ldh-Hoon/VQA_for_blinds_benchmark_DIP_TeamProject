@@ -4,7 +4,16 @@ https://colab.research.google.com/drive/11gmC65Fn_Q6GqnUVnsCzRjSY59-9-Be1?authus
 
 output.json : 1500개
 
-text or object task인 데이터로 좁히기
+<details>
+    <summary>정제 방식</summary>
+
+    Annotations, train.json (https://vizwiz.org/tasks-and-datasets/vqa/) 과 
+    
+    vision skill Annotations csv파일( https://vizwiz.org/tasks-and-datasets/vision-skills/)을 사용하여 text or object task인 데이터로 좁히기
+    
+
+
+</details>
 
 <details>
     <summary>json 형식</summary>
