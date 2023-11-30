@@ -2,7 +2,7 @@
 
 https://colab.research.google.com/drive/11gmC65Fn_Q6GqnUVnsCzRjSY59-9-Be1?authuser=3#scrollTo=Tn3DKhCiCLQl
 
-output.json : 1500개
+output.json : 1000개
 
 구글 드라이브에 다운로드하는 코랩 : https://colab.research.google.com/drive/1wSFIiW0IRMO5hD6jyPB2SHkRO6x-XR1X?usp=sharing
 
