@@ -75,3 +75,14 @@ TXT, OBJ, COL, CNT, OTH
 
 </details>
 
+
+<details>
+    <summary>정제 후 데이터 포(중복 있음)</summary>
+
+text, object, color, count, other
+
+TXT, OBJ, COL, CNT, OTH
+
+[772, 999, 703, 233, 200]
+
+</details>
