@@ -28,12 +28,13 @@ TXT, OBJ, COL, CNT, (OTH)
 ### datasets
 >촬영 시 생기는 이슈들(흔들림, 초점이 어긋남)을 포함하는 테스트 데이터셋 vizwiz
 
->object와 text 질문만 정제 (약 1500개)
+>object와 text 질문만 정제 (약 1000개)
 
 >만약 질문에 대한 정보를 얻을 수 없으면(이미지 이슈 등으로) no / unanswerable 등으로 답변
 
 >물건에 대한 각 질문에 대한 10개씩의 사람이 작성한 답변
 
+>TTS와 STT를 통해 오류를 낸 질문
 
 ### 중간 목표
 
@@ -43,9 +44,15 @@ TXT, OBJ, COL, CNT, (OTH)
 - 검증 코드 구현
 - 결과 데이터 정리
 
+### 모델 조사
+![image](https://github.com/ldh-Hoon/VQA_for_blinds_benchmark_DIP_TeamProject/assets/139981434/4b75bddc-5bd9-4bfe-8b24-50d0d809f70e)
+
+![image](https://github.com/ldh-Hoon/VQA_for_blinds_benchmark_DIP_TeamProject/assets/139981434/7a6e0fce-3856-4fab-9245-c44f39801ad9)
+
 ### 성능 평가
 
-기능적 측면(답변 정확도) + 분류 된 csv파일이 있음 = 대답을 잘 하느냐 = 양질의 정보 제공을 했느냐
+정확도
+![image](https://github.com/ldh-Hoon/VQA_for_blinds_benchmark_DIP_TeamProject/assets/139981434/f2fada16-509a-4a34-b71d-c4bdd589367a)
 
 -객체 인식
 -텍스트 인식
@@ -54,9 +61,9 @@ TXT, OBJ, COL, CNT, (OTH)
 
 -이미지 이슈
 
--총 점수
+-음성인식 질문
 
-속도(빠른가)
+-속도(전체 걸린시간)
+![image](https://github.com/ldh-Hoon/VQA_for_blinds_benchmark_DIP_TeamProject/assets/139981434/b58c7f49-1468-4dfc-8020-28545ba6111f)
 
--전체 걸린시간
--각 이미지당 평균 걸린시간(평균 이미지 크기랑 연결)
+
