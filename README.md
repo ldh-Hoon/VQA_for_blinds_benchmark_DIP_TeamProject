@@ -51,17 +51,21 @@ TXT, OBJ, COL, CNT, (OTH)
 
 ### 성능 평가
 
+종합 
+
+![image](https://github.com/ldh-Hoon/VQA_for_blinds_benchmark_DIP_TeamProject/assets/139981434/31b70b53-74df-4ac6-b5c0-8c6b724a18b2)
+
+
 정확도
 ![image](https://github.com/ldh-Hoon/VQA_for_blinds_benchmark_DIP_TeamProject/assets/139981434/f2fada16-509a-4a34-b71d-c4bdd589367a)
 
--객체 인식
--텍스트 인식
--색 인식
--개수
+-task 영역별
 
--이미지 이슈
+![image](https://github.com/ldh-Hoon/VQA_for_blinds_benchmark_DIP_TeamProject/assets/139981434/c41c8a39-9253-42ad-8187-2fb50972b33c)
 
--음성인식 질문
+-이미지 이슈 & 음성인식 질문
+
+![image](https://github.com/ldh-Hoon/VQA_for_blinds_benchmark_DIP_TeamProject/assets/139981434/38fdbbe6-48a9-482e-86b9-4520386e0359)
 
 -속도(전체 걸린시간)
 ![image](https://github.com/ldh-Hoon/VQA_for_blinds_benchmark_DIP_TeamProject/assets/139981434/b58c7f49-1468-4dfc-8020-28545ba6111f)
