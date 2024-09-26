@@ -1,6 +1,6 @@
 # VQA_for_blinds_benchmark_DIP_TeamProject
 
-저시력자 혹은 시각장애인의 물건(사물) 이미지 기반 질의응답을 위한 벤치마크 테스트
+저시력자 혹은 시각장애인의 물건(사물) 이미지 기반 질의응답을 위한 벤치마크 테스트 실험
 
 ### use case
 
@@ -26,7 +26,7 @@ TXT, OBJ, COL, CNT, (OTH)
 
 
 ### datasets
->촬영 시 생기는 이슈들(흔들림, 초점이 어긋남)을 포함하는 테스트 데이터셋 vizwiz
+>촬영 시 생기는 이슈들(흔들림, 초점이 어긋남)을 포함하는 테스트 데이터셋 vizwiz(https://vizwiz.org/)
 
 >object와 text 질문만 정제 (약 1000개)
 
